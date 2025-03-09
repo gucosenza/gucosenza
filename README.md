@@ -16,16 +16,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <a href="https://github.com/gucosenza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gucosenza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucosenza&layout=compact&langs_count=7&theme=dark"/>
-</div>
+# 🧑🏻‍💻 Gustavo Evangelista
+
+**`Desenvolvedor iOS`**
+
+Me chamo Gustavo Evangelista, sou natural do Rio de Janeiro. Formado em Ciências da Computação, com mais de 20 anos atuando no mercado. Atualmente iniciando no conhecimento de Flutter.
+
+<img src="https://komarev.com/ghpvc/?username=gucosenza&color=green" alt="gucosenza" />
+
+### 🤖 Linguagens e Tecnologias
+
 <div>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" target="_blank"></a>
 </div>
-  
-##
 
- <img src="https://komarev.com/ghpvc/?username=gucosenza&color=green" alt="gucosenza" />
+### 📊 Estatísticas
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gucosenza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucosenza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
